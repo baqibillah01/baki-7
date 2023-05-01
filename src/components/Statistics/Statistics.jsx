@@ -14,7 +14,7 @@ const Statistics = () => {
   const AssignmentMarks = [
     {
       name: "Assignment 1",
-      marks: 57,
+      marks: 47,
     },
     {
       name: "Assignment 2",
@@ -22,27 +22,27 @@ const Statistics = () => {
     },
     {
       name: "Assignment 3",
-      marks: 48,
+      marks: 45,
     },
     {
       name: "Assignment 4",
-      marks: 48,
+      marks: 50,
     },
     {
       name: "Assignment 5",
-      marks: 60,
+      marks: 47,
     },
     {
       name: "Assignment 6",
-      marks: 58,
+      marks: 52,
     },
     {
       name: "Assignment 7",
-      marks: 57,
+      marks: 60,
     },
     {
       name: "Assignment 8",
-      marks: 42,
+      marks: 36,
     },
   ];
 
